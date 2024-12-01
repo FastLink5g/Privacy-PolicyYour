@@ -1,2 +1,72 @@
 # Privacy-PolicyYour
-Privacy PolicyYour privacy is important to us. It is FastLink 5g's policy to respect your privacy regarding any information we may collect from you across our website, FastLink 5g, and other sites we own and operate.We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.We don’t share any personally identifying information publicly or with third-parties, except when required to by law.Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.Cookie Policy for FastLink 5g                            This is the Cookie Policy for FastLink 5g, accessible from URL .                            What Are Cookies                            As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or break certain elements of the sites functionality.                            How We Use Cookies                            We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.                            Disabling Cookies                            You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore it is recommended that you do not disable cookies.                            The Cookies We Set                                                        Third Party Cookies                            In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.                                                                                    User's responsibilitiesThe user undertakes the responsibility to make appropriate use of the contents and information offered on the site with enunciative, but not imitative, behaviour:A) Not to engage in activities that are illegal or contrary to good faith and public order;B) Not to spread propaganda or content of a racist, xenophobic or gambling nature, any type of illegal pornography, terrorist claims or against human rights;C) Do not cause damage to physical systems (hardware) and unattainable (software) of FastLink 5g, its suppliers or third parties, to introduce or disseminate computer viruses or any other hardware or software systems that are capable of causing damage previously mentioned.More informationHopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.This policy is effective as of 1 December 2024 15:05.
+Política de privacidade
+Esta política de privacidade se aplica ao aplicativo FastLink 5g (doravante denominado "Aplicativo") para dispositivos móveis que foi criado por Marcelo Bezerra Oliveira (doravante denominado "Provedor de Serviços") como um serviço Gratuito. Este serviço destina-se ao uso "COMO ESTÁ".
+
+
+Coleta e uso de informações
+O Aplicativo coleta informações quando você o baixa e usa. Essas informações podem incluir informações como
+
+O endereço de protocolo de Internet do seu dispositivo (por exemplo, endereço IP)
+As páginas do Aplicativo que você visita, a hora e a data da sua visita, o tempo gasto nessas páginas
+O tempo gasto no aplicativo
+O sistema operacional que você usa em seu dispositivo móvel
+
+O Aplicativo coleta a localização do seu dispositivo, o que ajuda o Provedor de Serviços a determinar sua localização geográfica aproximada e usar as seguintes maneiras:
+
+Serviços de geolocalização: O Provedor de Serviços utiliza dados de localização para fornecer recursos como conteúdo personalizado, recomendações relevantes e serviços baseados em localização.
+Análises e melhorias: Os dados de localização agregados e anônimos ajudam o Provedor de Serviços a analisar o comportamento do usuário, identificar tendências e melhorar o desempenho geral e a funcionalidade do Aplicativo.
+Serviços de terceiros: Periodicamente, o Provedor de Serviços pode transmitir dados de localização anônimos para serviços externos. Esses serviços os ajudam a aprimorar o Aplicativo e otimizar suas ofertas.
+
+O Provedor de Serviços pode usar as informações fornecidas para entrar em contato com você de tempos em tempos para fornecer informações importantes, avisos necessários e promoções de marketing.
+
+
+Para uma melhor experiência, ao usar o Aplicativo, o Provedor de Serviços pode exigir que você nos forneça certas informações de identificação pessoal, incluindo, mas não se limitando a fastlink.5g.net@gmail.com. As informações solicitadas pelo Provedor de Serviços serão retidas por ele e usadas conforme descrito nesta política de privacidade.
+
+
+Acesso de terceiros
+Apenas dados agregados e anônimos são transmitidos periodicamente a serviços externos para ajudar o Provedor de Serviços a melhorar o Aplicativo e seu serviço. O Provedor de Serviços pode compartilhar suas informações com terceiros nas formas descritas nesta declaração de privacidade.
+
+
+Observe que o Aplicativo utiliza serviços de terceiros que possuem sua própria Política de Privacidade sobre o tratamento de dados. Abaixo estão os links para a Política de Privacidade dos provedores de serviços terceirizados usados pelo Aplicativo:
+
+Serviços do Google Play
+
+O Provedor de Serviços pode divulgar Informações Fornecidas pelo Usuário e Coletadas Automaticamente:
+
+conforme exigido por lei, como para cumprir uma intimação ou processo legal semelhante;
+quando acreditarem de boa-fé que a divulgação é necessária para proteger seus direitos, proteger sua segurança ou a segurança de outras pessoas, investigar fraudes ou responder a uma solicitação do governo;
+com seus provedores de serviços confiáveis que trabalham em seu nome, não têm um uso independente das informações que divulgamos a eles e concordaram em aderir às regras estabelecidas nesta declaração de privacidade.
+
+Direitos de Recusa
+Você pode interromper toda a coleta de informações pelo Aplicativo facilmente desinstalando-o. Você pode usar os processos de desinstalação padrão que podem estar disponíveis como parte de seu dispositivo móvel ou por meio do mercado ou rede de aplicativos móveis.
+
+
+Política de retenção de dados
+O Provedor de Serviços reterá os dados fornecidos pelo usuário enquanto você usar o Aplicativo e por um tempo razoável depois disso. Se você quiser que eles excluam os Dados Fornecidos pelo Usuário que você forneceu por meio do Aplicativo, entre em contato com eles em fastlink.5g.net@gmail.com e eles responderão em um prazo razoável.
+
+
+Crianças
+O Provedor de Serviços não usa o Aplicativo para solicitar dados ou comercializar intencionalmente para crianças menores de 13 anos.
+
+
+O Aplicativo não se dirige a menores de 13 anos. O Provedor de Serviços não coleta intencionalmente pessoalmente informações identificáveis de crianças menores de 13 anos de idade. No caso o Provedor de Serviços descobrir que uma criança menor de 13 anos forneceu informações pessoais, o Provedor de Serviços imediatamente exclua isso de seus servidores. Se você é pai ou responsável e você está ciente de que seu filho nos forneceu informações pessoais, entre em contato com o Provedor de Serviços (fastlink.5g.net@gmail.com) para que eles serão capazes de tomar as medidas necessárias.
+
+
+Segurança
+O Provedor de Serviços está preocupado em proteger a confidencialidade de suas informações. O Provedor de Serviços fornece proteções físicas, eletrônicas e processuais para proteger as informações que o Provedor de Serviços processa e mantém.
+
+
+Alterações
+Esta Política de Privacidade pode ser atualizada periodicamente por qualquer motivo. O Provedor de Serviços notificará você sobre quaisquer alterações na Política de Privacidade, atualizando esta página com a nova Política de Privacidade. Aconselhamos que você consulte esta Política de Privacidade regularmente para quaisquer alterações, pois o uso continuado é considerado aprovação de todas as alterações.
+
+
+Esta política de privacidade entra em vigor a partir de 01/12/2024
+
+
+Seu consentimento
+Ao usar o Aplicativo, você concorda com o processamento de suas informações conforme estabelecido nesta Política de Privacidade agora e conforme alterado por nós.
+
+
+Contate-nos
+Se você tiver alguma dúvida sobre privacidade ao usar o Aplicativo ou tiver dúvidas sobre as práticas, entre em contato com o Provedor de Serviços por e-mail em fastlink.5g.net@gmail.com.
+
